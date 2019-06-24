@@ -1,10 +1,10 @@
 
 def square_array(array)
   counter = 0 
+  updated_array = []
  
-  while array[counter] do
-    puts array[counter] 
-    counter +=1 
+  while count < array.length do
+  updated_array << array[counter]** 
   end
 
 end
