@@ -7,5 +7,5 @@ def square_array(array)
   updated_array << (array[counter]** 2 )
   counter += 1 
   end
-puts updated_array
+ updated_array
 end
